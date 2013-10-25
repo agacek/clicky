@@ -1,4 +1,0 @@
-clicky
-======
-
-Clicky Clicky Clicky
